@@ -21,9 +21,9 @@
   ],
   "license": "MIT",
   "require": {
-    "php": ">=7.2.0",
+    "php": ">=8.0.0",
     "laravel/nova": "^3.0",
-    "optimistdigital/nova-translations-loader": "^3.10.0"
+    "optimistdigital/nova-translations-loader": "dev-3.x-laravel10"
   },
   "autoload": {
     "psr-4": {
